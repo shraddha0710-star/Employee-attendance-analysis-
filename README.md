@@ -56,9 +56,6 @@ The dataset includes the following fields:
 - Data Visualization
 - Dashboard Design
 
-## 📷 Dashboard Preview
-
-
 ## 🚀 How to Use
 1. Download the dataset
 2. Open the dashboard file (Excel/Power BI)
